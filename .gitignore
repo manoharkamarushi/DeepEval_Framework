@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+ENV/
+
+# Environment variables
+.env
+**/.env
+
+# Node.js
+node_modules/
+dist/
+build/
+npm-debug.log*
+
+# DeepEval Cache
+.deepeval/
+
+# IDEs and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
